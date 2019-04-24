@@ -1,0 +1,264 @@
+2019-04-23 08:15:11:	epoch 1, step:1000, loss 0.6362, test auc:0.7064,test acc:0.500, time:47.51
+2019-04-23 08:15:57:	epoch 1, step:2000, loss 0.5647, test auc:0.7457,test acc:0.500, time:46.43
+2019-04-23 08:16:43:	epoch 1, step:3000, loss 0.5357, test auc:0.7688,test acc:0.500, time:45.38
+2019-04-23 08:17:31:	epoch 1, step:4000, loss 0.5226, test auc:0.8005,test acc:0.500, time:48.01
+2019-04-23 08:17:34:	epoch 1 done, cost time:190.24
+2019-04-23 08:18:19:	epoch 2, step:5000, loss 0.3744, test auc:0.7899,test acc:0.500, time:48.40
+2019-04-23 08:19:05:	epoch 2, step:6000, loss 0.4207, test auc:0.7966,test acc:0.500, time:46.13
+2019-04-23 08:19:52:	epoch 2, step:7000, loss 0.4295, test auc:0.8017,test acc:0.500, time:46.78
+2019-04-23 08:20:38:	epoch 2, step:8000, loss 0.4361, test auc:0.8042,test acc:0.500, time:46.17
+2019-04-23 08:20:44:	epoch 2 done, cost time:380.36
+2019-04-23 08:21:25:	epoch 3, step:9000, loss 0.2677, test auc:0.7893,test acc:0.500, time:47.03
+2019-04-23 08:22:11:	epoch 3, step:10000, loss 0.3314, test auc:0.7944,test acc:0.500, time:46.00
+2019-04-23 08:22:57:	epoch 3, step:11000, loss 0.3539, test auc:0.7975,test acc:0.500, time:45.50
+2019-04-23 08:23:42:	epoch 3, step:12000, loss 0.3610, test auc:0.7960,test acc:0.500, time:45.37
+2019-04-23 08:23:53:	epoch 3 done, cost time:569.05
+2019-04-23 08:24:33:	epoch 4, step:13000, loss 0.2007, test auc:0.7936,test acc:0.500, time:50.65
+2019-04-23 08:25:19:	epoch 4, step:14000, loss 0.2574, test auc:0.7922,test acc:0.500, time:45.81
+2019-04-23 08:26:05:	epoch 4, step:15000, loss 0.2751, test auc:0.7864,test acc:0.500, time:46.09
+2019-04-23 08:26:51:	epoch 4, step:16000, loss 0.2821, test auc:0.7910,test acc:0.500, time:46.19
+2019-04-23 08:27:01:	epoch 4 done, cost time:757.63
+2019-04-23 08:33:46:	epoch 1, step:1000, loss 0.6463, test auc:0.7169,test acc:0.6866, time:53.82
+2019-04-23 08:34:34:	epoch 1, step:2000, loss 0.5616, test auc:0.7284,test acc:0.6952, time:48.03
+2019-04-23 08:35:21:	epoch 1, step:3000, loss 0.5431, test auc:0.7665,test acc:0.7142, time:46.37
+2019-04-23 08:37:36:	epoch 1, step:1000, loss 0.6456, test auc:0.7095,test acc:0.6814, time:53.13
+2019-04-23 08:38:24:	epoch 1, step:2000, loss 0.5682, test auc:0.7553,test acc:0.6999, time:47.46
+2019-04-23 08:39:10:	epoch 1, step:3000, loss 0.5400, test auc:0.7778,test acc:0.7132, time:46.68
+2019-04-23 08:39:57:	epoch 1, step:4000, loss 0.5227, test auc:0.7970,test acc:0.7265, time:46.52
+2019-04-23 08:40:00:	epoch 1 done, cost time:196.55
+2019-04-23 08:40:43:	epoch 2, step:5000, loss 0.3824, test auc:0.7888,test acc:0.7293, time:46.05
+2019-04-23 08:41:30:	epoch 2, step:6000, loss 0.4206, test auc:0.7936,test acc:0.7341, time:46.78
+2019-04-23 08:42:19:	epoch 2, step:7000, loss 0.4344, test auc:0.7985,test acc:0.7317, time:49.53
+2019-04-23 08:43:08:	epoch 2, step:8000, loss 0.4412, test auc:0.8017,test acc:0.7422, time:48.70
+2019-04-23 08:43:13:	epoch 2 done, cost time:390.39
+2019-04-23 08:43:55:	epoch 3, step:9000, loss 0.2732, test auc:0.7993,test acc:0.7365, time:46.55
+2019-04-23 08:44:41:	epoch 3, step:10000, loss 0.3312, test auc:0.8029,test acc:0.7469, time:46.84
+2019-04-23 08:45:27:	epoch 3, step:11000, loss 0.3528, test auc:0.8004,test acc:0.7436, time:46.04
+2019-04-23 08:46:16:	epoch 3, step:12000, loss 0.3718, test auc:0.7961,test acc:0.7360, time:48.46
+2019-04-23 08:46:25:	epoch 3 done, cost time:582.31
+2019-04-23 08:47:06:	epoch 4, step:13000, loss 0.2137, test auc:0.7939,test acc:0.7327, time:50.46
+2019-04-23 08:47:51:	epoch 4, step:14000, loss 0.2693, test auc:0.7874,test acc:0.7255, time:45.07
+2019-04-23 08:48:36:	epoch 4, step:15000, loss 0.2754, test auc:0.7924,test acc:0.7284, time:44.44
+2019-04-23 08:49:19:	epoch 4, step:16000, loss 0.2889, test auc:0.7909,test acc:0.7298, time:43.38
+2019-04-23 08:49:29:	epoch 4 done, cost time:766.35
+2019-04-23 08:50:03:	epoch 5, step:17000, loss 0.1614, test auc:0.7733,test acc:0.7189, time:44.16
+2019-04-23 08:50:48:	epoch 5, step:18000, loss 0.2221, test auc:0.7775,test acc:0.7184, time:44.41
+2019-04-23 08:51:31:	epoch 5, step:19000, loss 0.2377, test auc:0.7883,test acc:0.7331, time:43.27
+2019-04-23 08:52:16:	epoch 5, step:20000, loss 0.2467, test auc:0.7914,test acc:0.7331, time:45.04
+2019-04-23 08:52:29:	epoch 5 done, cost time:946.02
+2019-04-23 08:53:01:	epoch 6, step:21000, loss 0.1181, test auc:0.7927,test acc:0.7298, time:44.94
+2019-04-23 08:53:45:	epoch 6, step:22000, loss 0.1829, test auc:0.7790,test acc:0.7179, time:44.19
+2019-04-23 08:54:29:	epoch 6, step:23000, loss 0.1950, test auc:0.7830,test acc:0.7085, time:44.04
+2019-04-23 08:55:15:	epoch 6, step:24000, loss 0.2039, test auc:0.7895,test acc:0.7232, time:45.43
+2019-04-23 08:55:30:	epoch 6 done, cost time:1127.00
+2019-04-23 08:55:59:	epoch 7, step:25000, loss 0.0824, test auc:0.7770,test acc:0.7089, time:44.65
+2019-04-23 08:56:44:	epoch 7, step:26000, loss 0.1399, test auc:0.7707,test acc:0.7061, time:44.40
+2019-04-23 08:57:28:	epoch 7, step:27000, loss 0.1526, test auc:0.7804,test acc:0.7175, time:44.64
+2019-04-23 08:58:14:	epoch 7, step:28000, loss 0.1721, test auc:0.7820,test acc:0.7108, time:45.51
+2019-04-23 08:58:32:	epoch 7 done, cost time:1309.28
+2019-04-23 08:59:00:	epoch 8, step:29000, loss 0.0602, test auc:0.7690,test acc:0.7042, time:45.96
+2019-04-23 08:59:46:	epoch 8, step:30000, loss 0.1128, test auc:0.7740,test acc:0.7075, time:45.90
+2019-04-23 09:00:32:	epoch 8, step:31000, loss 0.1258, test auc:0.7493,test acc:0.6918, time:46.30
+2019-04-23 09:01:19:	epoch 8, step:32000, loss 0.1356, test auc:0.7868,test acc:0.7293, time:46.33
+2019-04-23 09:01:40:	epoch 8 done, cost time:1497.22
+2019-04-23 09:02:06:	epoch 9, step:33000, loss 0.0432, test auc:0.7608,test acc:0.7094, time:47.19
+2019-04-23 09:02:51:	epoch 9, step:34000, loss 0.0908, test auc:0.7521,test acc:0.6895, time:45.41
+2019-04-23 09:03:37:	epoch 9, step:35000, loss 0.1019, test auc:0.7634,test acc:0.7009, time:46.09
+2019-04-23 09:04:23:	epoch 9, step:36000, loss 0.1157, test auc:0.7700,test acc:0.7037, time:45.75
+2019-04-23 09:04:48:	epoch 9 done, cost time:1684.65
+2019-04-23 09:05:10:	epoch 10, step:37000, loss 0.0325, test auc:0.7659,test acc:0.7032, time:46.94
+2019-04-23 09:05:55:	epoch 10, step:38000, loss 0.0765, test auc:0.7646,test acc:0.7061, time:45.03
+2019-04-23 09:06:41:	epoch 10, step:39000, loss 0.0850, test auc:0.7859,test acc:0.7241, time:45.57
+2019-04-23 09:07:27:	epoch 10, step:40000, loss 0.0978, test auc:0.7742,test acc:0.7066, time:46.06
+2019-04-23 09:07:53:	epoch 10 done, cost time:1869.99
+2019-04-23 09:08:13:	epoch 11, step:41000, loss 0.0246, test auc:0.7825,test acc:0.7251, time:46.14
+2019-04-23 09:08:58:	epoch 11, step:42000, loss 0.0622, test auc:0.7766,test acc:0.7165, time:45.59
+2019-04-23 09:09:44:	epoch 11, step:43000, loss 0.0748, test auc:0.7792,test acc:0.7179, time:45.83
+2019-04-23 09:10:29:	epoch 11, step:44000, loss 0.0816, test auc:0.7800,test acc:0.7156, time:45.02
+2019-04-23 09:10:59:	epoch 11 done, cost time:2055.79
+2019-04-23 09:11:15:	epoch 12, step:45000, loss 0.0198, test auc:0.7705,test acc:0.7018, time:45.94
+2019-04-23 09:12:01:	epoch 12, step:46000, loss 0.0556, test auc:0.7838,test acc:0.7165, time:45.77
+2019-04-23 09:12:46:	epoch 12, step:47000, loss 0.0612, test auc:0.7783,test acc:0.7227, time:45.00
+2019-04-23 09:13:31:	epoch 12, step:48000, loss 0.0694, test auc:0.7789,test acc:0.7160, time:45.25
+2019-04-23 09:14:03:	epoch 12 done, cost time:2239.79
+2019-04-23 09:14:17:	epoch 13, step:49000, loss 0.0125, test auc:0.7682,test acc:0.7113, time:45.79
+2019-04-23 09:15:02:	epoch 13, step:50000, loss 0.0485, test auc:0.7601,test acc:0.7023, time:45.35
+2019-04-23 09:15:48:	epoch 13, step:51000, loss 0.0556, test auc:0.7640,test acc:0.7051, time:45.22
+2019-04-23 09:16:31:	epoch 13, step:52000, loss 0.0560, test auc:0.7648,test acc:0.7089, time:43.79
+2019-04-23 09:17:06:	epoch 13 done, cost time:2422.72
+2019-04-23 09:17:17:	epoch 14, step:53000, loss 0.0091, test auc:0.7639,test acc:0.7104, time:45.70
+2019-04-23 09:18:02:	epoch 14, step:54000, loss 0.0443, test auc:0.7796,test acc:0.7217, time:45.31
+2019-04-23 09:18:47:	epoch 14, step:55000, loss 0.0490, test auc:0.7593,test acc:0.6990, time:44.90
+2019-04-23 09:19:33:	epoch 14, step:56000, loss 0.0526, test auc:0.7718,test acc:0.7118, time:45.51
+2019-04-23 09:20:09:	epoch 14 done, cost time:2606.14
+2019-04-23 09:20:18:	epoch 15, step:57000, loss 0.0060, test auc:0.7675,test acc:0.7151, time:44.86
+2019-04-23 09:21:02:	epoch 15, step:58000, loss 0.0377, test auc:0.7826,test acc:0.7175, time:44.76
+2019-04-23 09:21:48:	epoch 15, step:59000, loss 0.0426, test auc:0.7689,test acc:0.6990, time:45.20
+2019-04-23 09:22:33:	epoch 15, step:60000, loss 0.0513, test auc:0.7760,test acc:0.7194, time:45.22
+2019-04-23 09:23:13:	epoch 15 done, cost time:2789.79
+2019-04-23 09:23:19:	epoch 16, step:61000, loss 0.0037, test auc:0.7692,test acc:0.7042, time:46.25
+2019-04-23 09:24:05:	epoch 16, step:62000, loss 0.0329, test auc:0.7818,test acc:0.7246, time:45.94
+2019-04-23 09:24:50:	epoch 16, step:63000, loss 0.0401, test auc:0.7708,test acc:0.7151, time:44.74
+2019-04-23 09:25:34:	epoch 16, step:64000, loss 0.0451, test auc:0.7715,test acc:0.7194, time:44.62
+2019-04-23 09:26:17:	epoch 16 done, cost time:2973.69
+2019-04-23 09:26:20:	epoch 17, step:65000, loss 0.0014, test auc:0.7746,test acc:0.7146, time:45.45
+2019-04-23 09:27:05:	epoch 17, step:66000, loss 0.0324, test auc:0.7716,test acc:0.7156, time:44.72
+2019-04-23 09:27:49:	epoch 17, step:67000, loss 0.0364, test auc:0.7755,test acc:0.7113, time:44.65
+2019-04-23 09:28:34:	epoch 17, step:68000, loss 0.0407, test auc:0.7801,test acc:0.7236, time:44.78
+2019-04-23 09:29:20:	epoch 17, step:69000, loss 0.0457, test auc:0.7747,test acc:0.7189, time:46.25
+2019-04-23 09:29:20:	epoch 17 done, cost time:3157.27
+2019-04-23 09:30:05:	epoch 18, step:70000, loss 0.0287, test auc:0.7733,test acc:0.7089, time:45.03
+2019-04-23 09:30:51:	epoch 18, step:71000, loss 0.0340, test auc:0.7809,test acc:0.7236, time:45.56
+2019-04-23 09:31:36:	epoch 18, step:72000, loss 0.0335, test auc:0.7877,test acc:0.7227, time:45.14
+2019-04-23 09:32:22:	epoch 18, step:73000, loss 0.0417, test auc:0.7766,test acc:0.7113, time:45.82
+2019-04-23 09:32:25:	epoch 18 done, cost time:3341.54
+2019-04-23 09:33:07:	epoch 19, step:74000, loss 0.0251, test auc:0.7864,test acc:0.7303, time:45.27
+2019-04-23 09:33:51:	epoch 19, step:75000, loss 0.0305, test auc:0.7627,test acc:0.7070, time:43.98
+2019-04-23 09:34:36:	epoch 19, step:76000, loss 0.0327, test auc:0.7709,test acc:0.7156, time:44.80
+2019-04-23 09:35:21:	epoch 19, step:77000, loss 0.0338, test auc:0.7773,test acc:0.7232, time:44.70
+2019-04-23 09:35:26:	epoch 19 done, cost time:3522.58
+2019-04-23 09:36:06:	epoch 20, step:78000, loss 0.0230, test auc:0.7835,test acc:0.7246, time:45.08
+2019-04-23 09:36:50:	epoch 20, step:79000, loss 0.0274, test auc:0.7757,test acc:0.7227, time:44.75
+2019-04-23 09:37:35:	epoch 20, step:80000, loss 0.0306, test auc:0.7872,test acc:0.7274, time:44.40
+2019-04-23 09:38:20:	epoch 20, step:81000, loss 0.0342, test auc:0.7781,test acc:0.7175, time:45.59
+2019-04-23 09:38:29:	epoch 20 done, cost time:3705.41
+2019-04-23 09:39:06:	epoch 21, step:82000, loss 0.0173, test auc:0.7804,test acc:0.7232, time:46.05
+2019-04-23 09:39:51:	epoch 21, step:83000, loss 0.0249, test auc:0.7834,test acc:0.7331, time:44.41
+2019-04-23 09:40:36:	epoch 21, step:84000, loss 0.0280, test auc:0.7849,test acc:0.7279, time:45.57
+2019-04-23 09:41:23:	epoch 21, step:85000, loss 0.0319, test auc:0.7856,test acc:0.7236, time:46.59
+2019-04-23 09:41:34:	epoch 21 done, cost time:3890.73
+2019-04-23 09:42:09:	epoch 22, step:86000, loss 0.0183, test auc:0.7611,test acc:0.6994, time:45.73
+2019-04-23 09:42:55:	epoch 22, step:87000, loss 0.0221, test auc:0.7912,test acc:0.7312, time:46.25
+2019-04-23 09:43:41:	epoch 22, step:88000, loss 0.0252, test auc:0.7753,test acc:0.7217, time:45.91
+2019-04-23 09:44:25:	epoch 22, step:89000, loss 0.0271, test auc:0.7762,test acc:0.7232, time:44.00
+2019-04-23 09:44:39:	epoch 22 done, cost time:4075.49
+2019-04-23 09:45:11:	epoch 23, step:90000, loss 0.0128, test auc:0.7835,test acc:0.7184, time:45.79
+2019-04-23 09:45:56:	epoch 23, step:91000, loss 0.0237, test auc:0.7878,test acc:0.7336, time:45.10
+2019-04-23 09:46:40:	epoch 23, step:92000, loss 0.0249, test auc:0.7673,test acc:0.7085, time:44.51
+2019-04-23 09:47:26:	epoch 23, step:93000, loss 0.0268, test auc:0.7722,test acc:0.7203, time:45.83
+2019-04-23 09:47:42:	epoch 23 done, cost time:4259.10
+2019-04-23 09:48:12:	epoch 24, step:94000, loss 0.0121, test auc:0.7805,test acc:0.7308, time:46.23
+2019-04-23 09:48:58:	epoch 24, step:95000, loss 0.0198, test auc:0.7703,test acc:0.7142, time:45.63
+2019-04-23 09:49:43:	epoch 24, step:96000, loss 0.0214, test auc:0.7855,test acc:0.7265, time:45.39
+2019-04-23 09:50:29:	epoch 24, step:97000, loss 0.0268, test auc:0.7839,test acc:0.7293, time:45.93
+2019-04-23 09:50:48:	epoch 24 done, cost time:4444.86
+2019-04-23 09:51:15:	epoch 25, step:98000, loss 0.0111, test auc:0.7683,test acc:0.7146, time:45.24
+2019-04-23 09:51:59:	epoch 25, step:99000, loss 0.0188, test auc:0.7622,test acc:0.7070, time:44.70
+2019-04-23 09:52:44:	epoch 25, step:100000, loss 0.0224, test auc:0.7661,test acc:0.7080, time:45.05
+2019-04-23 09:53:30:	epoch 25, step:101000, loss 0.0270, test auc:0.7765,test acc:0.7208, time:45.67
+2019-04-23 09:53:51:	epoch 25 done, cost time:4628.24
+2019-04-23 09:54:15:	epoch 26, step:102000, loss 0.0088, test auc:0.7806,test acc:0.7236, time:45.32
+2019-04-23 09:55:03:	epoch 26, step:103000, loss 0.0199, test auc:0.7928,test acc:0.7327, time:47.11
+2019-04-23 09:55:51:	epoch 26, step:104000, loss 0.0225, test auc:0.7778,test acc:0.7227, time:48.39
+2019-04-23 09:56:37:	epoch 26, step:105000, loss 0.0225, test auc:0.7733,test acc:0.7170, time:45.97
+2019-04-23 09:57:01:	epoch 26 done, cost time:4817.58
+2019-04-23 09:57:22:	epoch 27, step:106000, loss 0.0082, test auc:0.7709,test acc:0.7113, time:45.45
+2019-04-23 09:58:08:	epoch 27, step:107000, loss 0.0189, test auc:0.7886,test acc:0.7298, time:46.08
+2019-04-23 09:58:54:	epoch 27, step:108000, loss 0.0184, test auc:0.7789,test acc:0.7217, time:45.11
+2019-04-23 09:59:39:	epoch 27, step:109000, loss 0.0212, test auc:0.7693,test acc:0.7127, time:45.96
+2019-04-23 10:00:07:	epoch 27 done, cost time:5003.39
+2019-04-23 10:00:26:	epoch 28, step:110000, loss 0.0061, test auc:0.7682,test acc:0.7170, time:46.16
+2019-04-23 10:01:10:	epoch 28, step:111000, loss 0.0147, test auc:0.7864,test acc:0.7312, time:44.68
+2019-04-23 10:01:56:	epoch 28, step:112000, loss 0.0184, test auc:0.7844,test acc:0.7265, time:45.59
+2019-04-23 10:02:41:	epoch 28, step:113000, loss 0.0206, test auc:0.7773,test acc:0.7251, time:45.38
+2019-04-23 10:03:11:	epoch 28 done, cost time:5187.99
+2019-04-23 10:03:28:	epoch 29, step:114000, loss 0.0042, test auc:0.7748,test acc:0.7270, time:46.23
+2019-04-23 10:04:12:	epoch 29, step:115000, loss 0.0154, test auc:0.7712,test acc:0.7151, time:44.87
+2019-04-23 10:04:58:	epoch 29, step:116000, loss 0.0165, test auc:0.7803,test acc:0.7241, time:45.81
+2019-04-23 10:05:43:	epoch 29, step:117000, loss 0.0201, test auc:0.7937,test acc:0.7322, time:44.68
+2019-04-23 10:06:15:	epoch 29 done, cost time:5371.58
+2019-04-23 10:06:28:	epoch 30, step:118000, loss 0.0028, test auc:0.7902,test acc:0.7293, time:45.17
+2019-04-23 10:07:13:	epoch 30, step:119000, loss 0.0141, test auc:0.7743,test acc:0.7217, time:44.92
+2019-04-23 10:07:58:	epoch 30, step:120000, loss 0.0171, test auc:0.7931,test acc:0.7241, time:44.90
+2019-04-23 10:08:44:	epoch 30, step:121000, loss 0.0205, test auc:0.7863,test acc:0.7289, time:46.01
+2019-04-23 10:09:18:	epoch 30 done, cost time:5555.16
+2019-04-23 21:11:16:	epoch 1, step:1000, loss 0.6287, test auc:0.7450,test acc:0.7056, time:59.26
+2019-04-23 21:12:13:	epoch 1, step:2000, loss 0.5372, test auc:0.7787,test acc:0.7151, time:57.90
+2019-04-23 21:12:15:	epoch 1 done, cost time:118.91
+2019-04-23 21:13:12:	epoch 2, step:3000, loss 0.4050, test auc:0.7898,test acc:0.7331, time:58.64
+2019-04-23 21:14:11:	epoch 2, step:4000, loss 0.4454, test auc:0.8054,test acc:0.7403, time:59.19
+2019-04-23 21:14:15:	epoch 2 done, cost time:238.77
+2019-04-23 21:15:11:	epoch 3, step:5000, loss 0.3273, test auc:0.8065,test acc:0.7346, time:59.78
+2019-04-23 21:16:09:	epoch 3, step:6000, loss 0.3861, test auc:0.8071,test acc:0.7464, time:58.08
+2019-04-23 21:16:14:	epoch 3 done, cost time:358.10
+2019-04-23 21:17:08:	epoch 4, step:7000, loss 0.2723, test auc:0.8021,test acc:0.7384, time:58.77
+2019-04-23 21:18:07:	epoch 4, step:8000, loss 0.3291, test auc:0.8040,test acc:0.7355, time:58.57
+2019-04-23 21:18:13:	epoch 4 done, cost time:476.70
+2019-04-23 21:19:06:	epoch 5, step:9000, loss 0.2133, test auc:0.7942,test acc:0.7312, time:59.16
+2019-04-23 21:20:06:	epoch 5, step:10000, loss 0.2678, test auc:0.8001,test acc:0.7369, time:60.02
+2019-04-23 21:20:15:	epoch 5 done, cost time:598.69
+2019-04-23 21:21:03:	epoch 6, step:11000, loss 0.1594, test auc:0.7984,test acc:0.7417, time:57.28
+2019-04-23 21:22:04:	epoch 6, step:12000, loss 0.2119, test auc:0.7935,test acc:0.7270, time:60.76
+2019-04-23 21:22:15:	epoch 6 done, cost time:718.51
+2019-04-23 21:23:03:	epoch 7, step:13000, loss 0.1131, test auc:0.8032,test acc:0.7350, time:59.56
+2019-04-23 21:24:02:	epoch 7, step:14000, loss 0.1549, test auc:0.7839,test acc:0.7070, time:59.16
+2019-04-23 21:24:15:	epoch 7 done, cost time:838.54
+2019-04-23 21:25:01:	epoch 8, step:15000, loss 0.0755, test auc:0.7980,test acc:0.7312, time:58.81
+2019-04-23 21:26:01:	epoch 8, step:16000, loss 0.1155, test auc:0.7911,test acc:0.7246, time:59.36
+2019-04-23 21:26:14:	epoch 8 done, cost time:958.15
+2019-04-23 21:27:00:	epoch 9, step:17000, loss 0.0528, test auc:0.7932,test acc:0.7241, time:59.03
+2019-04-23 21:27:59:	epoch 9, step:18000, loss 0.0836, test auc:0.7985,test acc:0.7260, time:59.25
+2019-04-23 21:28:16:	epoch 9 done, cost time:1079.26
+2019-04-23 21:28:58:	epoch 10, step:19000, loss 0.0382, test auc:0.7948,test acc:0.7255, time:58.75
+2019-04-23 21:29:58:	epoch 10, step:20000, loss 0.0627, test auc:0.7969,test acc:0.7289, time:59.77
+2019-04-23 21:30:15:	epoch 10 done, cost time:1198.56
+2019-04-23 21:30:56:	epoch 11, step:21000, loss 0.0262, test auc:0.7942,test acc:0.7170, time:58.03
+2019-04-23 21:31:54:	epoch 11, step:22000, loss 0.0490, test auc:0.7907,test acc:0.7227, time:58.32
+2019-04-23 21:32:12:	epoch 11 done, cost time:1316.03
+2019-04-23 21:32:51:	epoch 12, step:23000, loss 0.0212, test auc:0.7902,test acc:0.7198, time:56.96
+2019-04-23 21:33:51:	epoch 12, step:24000, loss 0.0374, test auc:0.7935,test acc:0.7236, time:59.97
+2019-04-23 21:34:11:	epoch 12 done, cost time:1435.15
+2019-04-23 21:34:49:	epoch 13, step:25000, loss 0.0174, test auc:0.7865,test acc:0.7227, time:58.38
+2019-04-23 21:35:48:	epoch 13, step:26000, loss 0.0302, test auc:0.8078,test acc:0.7369, time:59.16
+2019-04-23 21:36:11:	epoch 13 done, cost time:1554.23
+2019-04-23 21:36:47:	epoch 14, step:27000, loss 0.0121, test auc:0.7947,test acc:0.7251, time:58.98
+2019-04-23 21:37:46:	epoch 14, step:28000, loss 0.0234, test auc:0.8007,test acc:0.7336, time:59.03
+2019-04-23 21:38:12:	epoch 14 done, cost time:1675.65
+2019-04-23 21:38:46:	epoch 15, step:29000, loss 0.0100, test auc:0.8025,test acc:0.7251, time:59.13
+2019-04-23 21:39:45:	epoch 15, step:30000, loss 0.0201, test auc:0.7984,test acc:0.7260, time:59.52
+2019-04-23 21:40:11:	epoch 15 done, cost time:1794.52
+2019-04-23 21:40:43:	epoch 16, step:31000, loss 0.0086, test auc:0.7949,test acc:0.7198, time:58.24
+2019-04-23 21:41:43:	epoch 16, step:32000, loss 0.0170, test auc:0.7989,test acc:0.7265, time:59.60
+2019-04-23 21:42:11:	epoch 16 done, cost time:1914.58
+2019-04-23 21:42:43:	epoch 17, step:33000, loss 0.0069, test auc:0.7854,test acc:0.7142, time:60.59
+2019-04-23 21:43:43:	epoch 17, step:34000, loss 0.0161, test auc:0.7963,test acc:0.7274, time:59.15
+2019-04-23 21:44:14:	epoch 17 done, cost time:2037.78
+2019-04-23 21:44:43:	epoch 18, step:35000, loss 0.0056, test auc:0.8014,test acc:0.7289, time:60.56
+2019-04-23 21:45:45:	epoch 18, step:36000, loss 0.0137, test auc:0.7950,test acc:0.7289, time:62.18
+2019-04-23 21:46:18:	epoch 18 done, cost time:2162.07
+2019-04-23 21:46:45:	epoch 19, step:37000, loss 0.0047, test auc:0.7962,test acc:0.7279, time:60.13
+2019-04-23 21:47:48:	epoch 19, step:38000, loss 0.0128, test auc:0.7983,test acc:0.7284, time:62.40
+2019-04-23 21:48:21:	epoch 19 done, cost time:2284.46
+2019-04-23 21:48:47:	epoch 20, step:39000, loss 0.0044, test auc:0.8011,test acc:0.7346, time:59.15
+2019-04-23 21:49:48:	epoch 20, step:40000, loss 0.0115, test auc:0.7962,test acc:0.7246, time:61.42
+2019-04-23 21:50:22:	epoch 20 done, cost time:2405.66
+2019-04-23 21:50:48:	epoch 21, step:41000, loss 0.0029, test auc:0.7962,test acc:0.7246, time:59.10
+2019-04-23 21:51:48:	epoch 21, step:42000, loss 0.0105, test auc:0.7969,test acc:0.7255, time:60.21
+2019-04-23 21:52:27:	epoch 21 done, cost time:2530.27
+2019-04-23 21:52:48:	epoch 22, step:43000, loss 0.0026, test auc:0.8029,test acc:0.7293, time:60.47
+2019-04-23 21:53:48:	epoch 22, step:44000, loss 0.0097, test auc:0.8035,test acc:0.7374, time:59.61
+2019-04-23 21:54:28:	epoch 22 done, cost time:2651.47
+2019-04-23 21:54:47:	epoch 23, step:45000, loss 0.0028, test auc:0.7945,test acc:0.7213, time:59.31
+2019-04-23 21:55:49:	epoch 23, step:46000, loss 0.0082, test auc:0.8029,test acc:0.7360, time:61.40
+2019-04-23 21:56:29:	epoch 23 done, cost time:2772.94
+2019-04-23 21:56:50:	epoch 24, step:47000, loss 0.0029, test auc:0.7910,test acc:0.7274, time:61.36
+2019-04-23 21:57:49:	epoch 24, step:48000, loss 0.0083, test auc:0.7998,test acc:0.7341, time:59.35
+2019-04-23 21:58:32:	epoch 24 done, cost time:2895.83
+2019-04-23 21:58:49:	epoch 25, step:49000, loss 0.0019, test auc:0.8002,test acc:0.7322, time:59.67
+2019-04-23 21:59:50:	epoch 25, step:50000, loss 0.0074, test auc:0.7875,test acc:0.7217, time:61.19
+2019-04-23 22:00:34:	epoch 25 done, cost time:3017.71
+2019-04-23 22:00:50:	epoch 26, step:51000, loss 0.0015, test auc:0.7961,test acc:0.7265, time:59.66
+2019-04-23 22:01:50:	epoch 26, step:52000, loss 0.0055, test auc:0.8011,test acc:0.7327, time:60.09
+2019-04-23 22:02:36:	epoch 26 done, cost time:3140.18
+2019-04-23 22:02:50:	epoch 27, step:53000, loss 0.0010, test auc:0.8002,test acc:0.7336, time:60.38
+2019-04-23 22:03:50:	epoch 27, step:54000, loss 0.0086, test auc:0.7991,test acc:0.7327, time:59.72
+2019-04-23 22:04:38:	epoch 27 done, cost time:3261.51
+2019-04-23 22:04:49:	epoch 28, step:55000, loss 0.0009, test auc:0.8118,test acc:0.7422, time:59.30
+2019-04-23 22:05:50:	epoch 28, step:56000, loss 0.0085, test auc:0.7971,test acc:0.7298, time:60.55
+2019-04-23 22:06:39:	epoch 28 done, cost time:3383.14
+2019-04-23 22:06:50:	epoch 29, step:57000, loss 0.0016, test auc:0.8003,test acc:0.7322, time:60.54
+2019-04-23 22:07:50:	epoch 29, step:58000, loss 0.0123, test auc:0.7944,test acc:0.7194, time:59.91
+2019-04-23 22:08:44:	epoch 29 done, cost time:3507.65
+2019-04-23 22:08:52:	epoch 30, step:59000, loss 0.0008, test auc:0.7949,test acc:0.7260, time:61.79
+2019-04-23 22:09:52:	epoch 30, step:60000, loss 0.0089, test auc:0.7970,test acc:0.7270, time:59.96
+2019-04-23 22:10:47:	epoch 30 done, cost time:3630.85
